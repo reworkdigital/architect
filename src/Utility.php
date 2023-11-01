@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect;
+namespace ReworkDigital\Architect;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Collection;
