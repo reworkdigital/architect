@@ -14,7 +14,7 @@
         "phpunit/phpunit": "~10.0",
         "php-coveralls/php-coveralls": "2.2.*"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "license": "MIT"
 }
