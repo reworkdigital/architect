@@ -1,11 +1,11 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace ReworkDigital\Architect\ModeResolver;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
-use Optimus\Architect\ModeResolver\ModeResolverInterface;
-use Optimus\Architect\Utility;
+use ReworkDigital\Architect\ModeResolver\ModeResolverInterface;
+use ReworkDigital\Architect\Utility;
 
 class IdsModeResolver implements ModeResolverInterface
 {

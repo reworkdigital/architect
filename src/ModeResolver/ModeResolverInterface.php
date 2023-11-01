@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace ReworkDigital\Architect\ModeResolver;
 
 interface ModeResolverInterface
 {

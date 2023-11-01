@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Collection;
-use Optimus\Architect\Architect;
+use ReworkDigital\Architect\Architect;
 
 require_once __DIR__.'/Model/Resource.php';
 
